@@ -1,0 +1,16 @@
+Cards Class that generates a all the cards for the Deck
+
+Suit Class
+  symbol, name (and maybe color)
+  show
+
+PokerCards < Cards
+
+SpanishCards < Cards
+
+Poker Cards and Spanish Cards have different suits and 
+different numbers of cards.
+
+In Deck the methods 
+  shuffle for shuffle the list of Cards
+  deal => give a card
